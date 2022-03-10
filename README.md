@@ -36,10 +36,10 @@
 
 ## documentation 
 
-    https://documenter.getpostman.com/view/3093123/UVsG19V9
+https://documenter.getpostman.com/view/3093123/UVsG19V9
 
 ### ERD 
 
-    https://drive.google.com/file/d/1tGxExs8py8wshtaHWjrPDugvTj-CgIod/view
+https://drive.google.com/file/d/1tGxExs8py8wshtaHWjrPDugvTj-CgIod/view
 
 

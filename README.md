@@ -9,15 +9,15 @@
 
 ## Description 
 
-    Car End point to list cars with pagination, filtration and sorting
+Car End point to list cars with pagination, filtration and sorting
     build using repository design pattern. 
 
-    Tables :
-        cars
-        carmodels
-        brand
-        category
-        engine
+Tables :
+    cars
+    carmodels
+    brand
+    category
+    engine
 
 ## End points
 
